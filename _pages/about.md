@@ -11,10 +11,10 @@ I am a fellow of the Sobolev Institute of Mathematics of Siberian Branch of Russ
 
 Education
 ======
-<p>2000 – 2005: Omsk State Technical University, Automated Control System department, engineer
-<p>2006-2009 Postgraduate education, Omsk State Technical University
+<p>2000-2005: Omsk State Technical University, Automated Control System department, engineer</p>
+<p>2006-2009 Postgraduate education, Omsk State Technical University</p>
 <p>2012 Ph. D. Thesis: Structural identification of large stochastic networks and random preferential attachment graphs
-(Scientific adviser is Zadorozhnyi V.N.)
+(Scientific adviser is Zadorozhnyi V.N.)</p>
 
 Reseach interests
 ======

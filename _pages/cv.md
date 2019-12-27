@@ -16,16 +16,18 @@ Education
 
 Work experience
 ======
-* Summer 2005- Summer 2019: lecturer
+* Summer 2005- today: lecturer (docent)
   * Omsk State Technical University
+* Summer 2016- Summer 2019: fellow
+  * Sobolev Institute of Mathematics of Siberian Branch of Russian Academy of Sciences. 
   
 Skills
 ======
 * Skill AnyLogic
 * Skill Java
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Sub-skill Android
+  * Sub-skill JavaEE
+  * Sub-skill JavaFX, SWING+AWT
 * Skill Python
 
 Publications

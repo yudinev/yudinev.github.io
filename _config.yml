@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Evgeniy Yudin"
-  avatar           : "profile.png"
+  avatar           : "Yudin.jpg"
   bio              : "I interested in the theory and application of Network Science. I teach programming (Python, Java, C++), math modeling and theory of simulation. I use the Rstudio, the AnyLogic, the Repast Suite etc."
   location         : "Omsk, Russia"
   employer         :

@@ -1,12 +1,54 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Основные направления деятельности лаборатории"
+excerpt: "About Lab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+### Научно-исследовательская лаборатория «Имитационное моделирование, системный анализ и информационные технологии» (НИЛ ИМСАИТ) создана в конце 2012 года в ОмГТУ. Руководитель  НИЛ ИМСАИТ- д.т.н. Задорожный В.Н.
+
+## Основные направления
+
+## 1. ТЕОРИЯ ОЧЕРЕДЕЙ И СОВРЕМЕННАЯ ТЕОРИЯ ТЕЛЕТРАФИКА
+
+### Ведущие специалисты: Захаренкова Татьяна Романовна, Задорожный Владимир Николаевич
+
+### Основная задача, на которую направлено исследование:
+разработка методов расчета и оптимизации систем с очередями.
+
+### Области применения результатов исследования:
+результаты исследований могут быть использованы для изучения реальных систем с очередями, функционирующих в информационных системах,
+финансовых учреждениях, службах преодоления чрезвычайных ситуаций, транспортном моделировании и т.д.
+
+### Направления исследований:
+
+* экспериментальные исследования реального современного сетевого трафика в целях повышения качества информационного обслуживания (QoS)
+реальных компьютерных сетей;
+* оптимизация городских транспортных сетей, оптимальное управление транспортными потоками и т.д.
+
+## 2. ИССЛЕДОВАНИЕ СЛУЧАЙНЫХ ГРАФОВ
+
+### Ведущие специалисты: 
+* Бадрызлов Владимир Александрович,
+* Ольгина Инна Геннадьевна,
+* Юдин Евгений Борисович,
+* Юдина Мария Николаевна,
+* Задорожный Владимир Николаевич.
+
+### Основная задача:
+анализ и моделирование больших сетей
+
+### Области применения результатов исследования:
+исследование социальных сетей, сетей цитирования, молекулярных сетей клетки
+
+### Направления исследований
+* решение задач анализа (расчета структурных характеристик сетей);
+* моделирование сетей и сетевых процессов (имитационное и аналитическое).
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

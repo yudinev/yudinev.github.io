@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fellow of the Sobolev Institute of Mathematics of Siberian Branch of Russian Academy of Sciences (2016- at present). I am also a docent at Omsk State Technical University (2006-at present). I interested in the theory and application of Network Science. I teach programming (Java, C++), math modeling and theory of simulation. I use the Rstudio, the AnyLogic, the Repast Suite etc.
+I am a docent at Omsk State Technical University (2006-at present). I interested in the theory and application of Network Science. I teach programming (Java, C++, Python), math modeling and theory of simulation. I use the Rstudio, the AnyLogic, the Repast Suite etc.
 
 Education
 ======
@@ -18,10 +18,10 @@ Education
 
 Reseach interests
 ======
-probabilistic models and methods,
-complex networks,
-agent simulation,
-network process,
-network motifs,
-percolation theory,
-Ising model.
+* probabilistic models and methods,
+* complex networks,
+* agent simulation,
+* network process,
+* network motifs,
+* percolation theory,
+* Ising model.

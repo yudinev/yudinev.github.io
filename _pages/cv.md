@@ -48,6 +48,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Grants and awards
 ======
-* Currently signed in to 43 different slack teams
+* Youth Award named after N.P. Buslenko (from National Simulation Society), 2017
+* RFBR project 14-01-31551 mol_a "Мethods for the analysis of large network structures using parallel processing" (2014-2015)
+* RFBR project 16-31-60023 mol_a_dk "Mathematical Models and structures of social networks" (2016-2018)

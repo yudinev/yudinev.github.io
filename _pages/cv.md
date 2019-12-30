@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2009: Omsk State Teacher’s Training University, Bachelor’s degree of Physics and Mathematics
+* 2010 Omsk State Teacher’s Training University, specialist diploma with the qualification of a Mathematics teacher
+* 2019 Omsk State Technical University, research teacher in the area of Mathematical modeling, numerical methods and program complexes(05.13.18)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2014- 2016: assistent
+  * Omsk State Technical University
+* Summer 2019- Summer 2024: assistent
+  * Omsk State Technical University 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill AnyLogic
+* Skill Java
+* Skill Python
 
 Publications
 ======
@@ -48,12 +41,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Grants and awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Youth Award named after N.P. Buslenko (from National Simulation Society), 2019

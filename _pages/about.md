@@ -18,10 +18,12 @@ Education
 * 2005-2009: Omsk State TeacherвЂ™s Training University, Bachelor's degree of Physics and Mathematics
 * 2009-2010 Omsk State TeacherвЂ™s Training University, specialist diploma with the qualification of a Mathematics teacher
 * 2015-2019 Postgraduate education, Omsk State Technical University (05.13.18) 
-   * Scientific adviser is Zadorozhnyi V.N.
+   * Scientific adviser is V.N. Zadorozhnyi
+   * Scientific adviser is [Zadorozhnyi V.N.](https://omgtu.ru/ecab/persons/?f=550)
 
 Reseach interests
 ======
 * network motifs,
 * probabilistic models and methods,
 * complex networks.
+* interview with me [ru](https://omgtu.ru/general_information/news/?ELEMENT_ID=48903)

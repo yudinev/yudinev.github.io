@@ -10,14 +10,15 @@ redirect_from:
 I am phD student at Omsk State Technical University. I also teach the following disciplines
 * Fundamentals of system modeling (2014-2015)
 * Object-Oriented Programming (2014-2015)
-* Software Engineering, "Development of software applications (2019-2020 academic year)
+* Software Engineering (2019-2020)
+* Development of software applications (2019-2020) 
 
 Education
 ======
-* 2005 – 2009: Omsk State Teacher’s Training University, Bachelor’s degree of Physics and Mathematics
-* 2009-2010 Omsk State Teacher’s Training University, specialist diploma with the qualification of a Mathematics teacher
+* 2005-2009: Omsk State TeacherвЂ™s Training University, Bachelor's degree of Physics and Mathematics
+* 2009-2010 Omsk State TeacherвЂ™s Training University, specialist diploma with the qualification of a Mathematics teacher
 * 2015-2019 Postgraduate education, Omsk State Technical University (05.13.18) 
-(Scientific adviser is Zadorozhnyi V.N.)
+   * Scientific adviser is Zadorozhnyi V.N.
 
 Reseach interests
 ======

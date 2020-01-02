@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[На русском здесь](https://omgtu.ru/ecab/persons/index.php?f=2191)
+<p>[На русском здесь](https://omgtu.ru/ecab/persons/index.php?f=2191)</p>
+
+
 I am phD student at Omsk State Technical University. I also teach the following disciplines
 * Fundamentals of system modeling (2014-2015)
 * Object-Oriented Programming (2014-2015)

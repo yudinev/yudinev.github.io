@@ -19,10 +19,10 @@ Education
 
 Work experience
 ======
-* Summer 2010- Fall 2011: Tearcher of computer science and mathematics
+* Summer 2010- Winter 2011: Tearcher of computer science and mathematics
   * School N51, Omsk
 * Winter 2011- Summer 2013: network engineer
-  * Municipal or urban engineering company "Service"
+  * Municipal engineering company "Service"
 * Summer 2013- Fall 2014: Lecturer 
   * College of Commerce Economics and Service
 * Summer 2014- Summer 2016: assistent

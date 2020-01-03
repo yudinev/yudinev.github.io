@@ -10,7 +10,7 @@ redirect_from:
 [На русском здесь](https://omgtu.ru/ecab/persons/index.php?f=2191)
 
 
-### I am phD student at Omsk State Technical University. I also teach the following disciplines
+### I am a phD student at Omsk State Technical University. I also teach the following disciplines
 * Fundamentals of system modeling (2014-2015)
 * Object-Oriented Programming (2014-2015)
 * Software Engineering (2019-2020)
@@ -28,5 +28,5 @@ Reseach interests
 ======
 * network motifs,
 * probabilistic models and methods,
-* complex networks.
+* complex networks,
 * interview with me [in russian](https://omgtu.ru/general_information/news/?ELEMENT_ID=48903)

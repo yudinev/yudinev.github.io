@@ -50,3 +50,4 @@ Talks
 Grants and awards
 ======
 * Youth Award named after N.P. Buslenko (from National Simulation Society), 2019
+<img src='/images/immod2019.jpg'>

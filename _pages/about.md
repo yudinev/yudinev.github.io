@@ -25,3 +25,5 @@ Reseach interests
 * network motifs,
 * percolation theory,
 * Ising model.
+<script src="https://yastatic.net/q/forms-frontend-ext/_/embed.js"></script>
+<iframe src="https://forms.yandex.ru/u/5f9ffcb13af4d2e1754fdc1a/?iframe=1" frameborder="0" name="ya-form-5f9ffcb13af4d2e1754fdc1a" width="650"></iframe>

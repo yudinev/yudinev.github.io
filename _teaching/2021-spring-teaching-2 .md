@@ -8,4 +8,4 @@ date: 2021-01-01
 location: "Omsk, Russia"
 ---
 
-|[Java](https://www.youtube.com/watch?v=E60FCX-TziQ&list=PLeavmdvBfuQ51OdGxAvF058ybqK1Njd3G)  |  |    [Data analysis](https://www.youtube.com/playlist?list=PLeavmdvBfuQ62M5F99eGjGPLfxWHgXATA)|
+|[Java](https://www.youtube.com/watch?v=E60FCX-TziQ&list=PLeavmdvBfuQ51OdGxAvF058ybqK1Njd3G)  |  [Data analysis](https://www.youtube.com/playlist?list=PLeavmdvBfuQ62M5F99eGjGPLfxWHgXATA)|

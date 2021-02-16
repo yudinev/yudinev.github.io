@@ -20,7 +20,8 @@ Work experience
   * Omsk State Technical University
 * Summer 2016- Summer 2019: fellow
   * Sobolev Institute of Mathematics of Siberian Branch of Russian Academy of Sciences. 
-  
+* Summer 2020- today: : Head of Scientific Information Department
+  * Omsk State Technical University  
 Skills
 ======
 * Skill AnyLogic

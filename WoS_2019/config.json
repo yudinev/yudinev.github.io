@@ -8,23 +8,23 @@
     "text": "yudinev"
   },
   "text": {
-    "more": "test graph",
-    "intro": "test\t",
-    "title": "test"
+    "more": "",
+    "intro": "Co-authorship graph of omsk state technical university publications in 2019\nPurple is Omsk state technical U\nGreen is Russian Acad Sci\nTurquoise is Doskoevsky Omsk State U\nDark is is Siberiam State Automobile and Hihway U\nOrange is Omsk state technical U (multiple affiliation)",
+    "title": "Co-authorship graph"
   },
   "legend": {
     "edgeLabel": "coathors link",
-    "colorLabel": "Country",
+    "colorLabel": "Affiliation",
     "nodeLabel": "Author"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "country",
+    "groupSelectorAttribute": "faculty",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "country"
+    "imageAttribute": "faculty"
   },
   "sigma": {
     "drawingProperties": {
